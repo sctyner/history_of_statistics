@@ -72,6 +72,8 @@ http://contributor-covenant.org/version/1/0/0/
 
 *What have our colleagues published in the literature about the history of statistics?* 
 
+- Robert Langkjær‐Bain, "The troubling legacy of Francis Galton", _Significance_, Vol.16 No.3, 2019-05-29. [Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01275.x), doi.org/10.1111/j.1740-9713.2019.01275.x
+
 
 
 
