@@ -32,4 +32,44 @@ This Code of Conduct is adapted from the Contributor Covenant
 (http://contributor-covenant.org), version 1.0.0, available at 
 http://contributor-covenant.org/version/1/0/0/
 
+---
+
+# Resources for Learning about the History of Statistics and Statisticians
+
+## Wikipedia 
+
+*Use wikipedia to begin to learn about the lives of statistics’ founding fathers and mothers, and about the history of statistics as a field.*  
+
+- R.A. Fisher: https://en.wikipedia.org/wiki/Ronald_Fisher
+- Karl Pearson: https://en.wikipedia.org/wiki/Karl_Pearson
+- Florence Nightingale: https://en.wikipedia.org/wiki/Florence_Nightingale
+- C.F. Gauss: https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss
+- The Bernoulli Family (Jacob Bernoulli & others): https://en.wikipedia.org/wiki/Bernoulli_family 
+- History of Statistics: https://en.wikipedia.org/wiki/History_of_statistics
+- Statistical significance: https://en.wikipedia.org/wiki/Statistical_significance
+
+
+## Websites 
+
+*What websites are dedicated to the history of statistics & statisticians?* 
+
+- History of Statistics ASA interest group: https://community.amstat.org/historyofstats/home 
+
+## Blogs & Blog posts
+
+*What blogs & blog posts have been written about the history of statistics & statisticians?*
+
+## Books 
+
+*What books have been written about the history of statistics & statisticians? How critical of a perspective do they take?* 
+
+- *The Lady Tasting Tea* by David Salsburg
+- *The Theory that Would Not Die* by Sharon McGrayne 
+
+## Journals / Articles
+
+*What have our colleagues published in the literature about the history of statistics?* 
+
+
+
 
