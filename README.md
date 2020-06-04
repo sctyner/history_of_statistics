@@ -55,6 +55,7 @@ http://contributor-covenant.org/version/1/0/0/
 *What websites are dedicated to the history of statistics & statisticians?* 
 
 - History of Statistics ASA interest group: https://community.amstat.org/historyofstats/home 
+- This is Statistics list of "Famous Statisticians": https://thisisstatistics.org/famous-statisticians/ 
 
 ## Blogs & Blog posts
 
