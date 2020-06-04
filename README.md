@@ -45,6 +45,7 @@ http://contributor-covenant.org/version/1/0/0/
 - Florence Nightingale: https://en.wikipedia.org/wiki/Florence_Nightingale
 - C.F. Gauss: https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss
 - The Bernoulli Family (Jacob Bernoulli & others): https://en.wikipedia.org/wiki/Bernoulli_family 
+- David Blackwell: https://en.wikipedia.org/wiki/David_Blackwell
 - History of Statistics: https://en.wikipedia.org/wiki/History_of_statistics
 - Statistical significance: https://en.wikipedia.org/wiki/Statistical_significance
 
