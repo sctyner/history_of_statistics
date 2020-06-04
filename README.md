@@ -73,7 +73,7 @@ http://contributor-covenant.org/version/1/0/0/
 *What have our colleagues published in the literature about the history of statistics?* 
 
 - Robert Langkjær‐Bain, "The troubling legacy of Francis Galton", _Significance_, Vol.16 No.3, 2019-05-29. [Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01275.x), doi.org/10.1111/j.1740-9713.2019.01275.x
-
+- Gillham, N. W. (2001). [Sir Francis Galton and the birth of eugenics.](https://www.annualreviews.org/doi/abs/10.1146/annurev.genet.35.102401.090055?journalCode=genet) Annual review of genetics, 35(1), 83-101.
 
 
 
