@@ -48,8 +48,10 @@ http://contributor-covenant.org/version/1/0/0/
 - David Blackwell: https://en.wikipedia.org/wiki/David_Blackwell
 - History of Statistics: https://en.wikipedia.org/wiki/History_of_statistics
 - Statistical significance: https://en.wikipedia.org/wiki/Statistical_significance
-
-
+- William Sealy Gosset: 
+  - https://en.wikipedia.org/wiki/William_Sealy_Gosset
+  - https://priceonomics.com/the-guinness-brewer-who-revolutionized-statistics/  
+  
 ## Websites 
 
 *What websites are dedicated to the history of statistics & statisticians?* 
@@ -84,5 +86,6 @@ http://contributor-covenant.org/version/1/0/0/
 - Robert Langkjær‐Bain, "The troubling legacy of Francis Galton", _Significance_, Vol.16 No.3, 2019-05-29. [Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01275.x), doi.org/10.1111/j.1740-9713.2019.01275.x
 - Gillham, N. W. (2001). [Sir Francis Galton and the birth of eugenics.](https://www.annualreviews.org/doi/abs/10.1146/annurev.genet.35.102401.090055?journalCode=genet) Annual review of genetics, 35(1), 83-101.
 
+## Podcasts
 
-
+*William Sealy Gosset*: Background on Gossest's creation of the student-t test: http://lineardigressions.com/episodes/2016/2/29/guinness
