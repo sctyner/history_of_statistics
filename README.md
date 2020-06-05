@@ -67,6 +67,7 @@ http://contributor-covenant.org/version/1/0/0/
 
 - *The Lady Tasting Tea* by David Salsburg
 - *The Theory that Would Not Die* by Sharon McGrayne 
+- *The History of Statistics: The Measurement of Uncertainty before 1900* by Stephen M. Stigler
 
 ## Journals / Articles
 
