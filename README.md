@@ -86,4 +86,4 @@ http://contributor-covenant.org/version/1/0/0/
 
 ## Podcasts
 
-*William Sealy Gosset*: Background on Gossest's creation of the student-t test: https://open.spotify.com/episode/1YUT650OVwYVTzFUayH09O?si=RnMAfYJGR0OIgMIeyV5LQw
+*William Sealy Gosset*: Background on Gossest's creation of the student-t test: http://lineardigressions.com/episodes/2016/2/29/guinness
