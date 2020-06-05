@@ -67,6 +67,15 @@ http://contributor-covenant.org/version/1/0/0/
 
 - *The Lady Tasting Tea* by David Salsburg
 - *The Theory that Would Not Die* by Sharon McGrayne 
+- *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life* (1995) by Theodore Porter
+  - Discussion of the history of statistics and the concept of objectivity showing how quantification involves administration, as well as social and technological power.
+- *Karl Pearson: The Scientific Life in a Statistical Age* by Theodore Porter
+  - An in depth discussion of the life of Pearson and his use of statistics as a means to provide guidance for a new socialist and eugenic order.
+- *The Cambridge History of Science volume 7: The Modern Social Sciences* (2003)
+  - ["Statistics and Statistical Methods" by Theodore Porter](https://doi.org/10.1017/CHOL9780521594424.015)
+  - ["Race and the Social Sciences by Elazar Barkan"](https://doi.org/10.1017/CHOL9780521594424.042)
+- *Objectivity* (2007) by Lorraine Daston and Peter Galison
+  - A more general study of the history of objectivity in the sciences and social sciences. Includes various discussions on the role of statistics in objectivity.
 
 ## Journals / Articles
 
