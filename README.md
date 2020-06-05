@@ -48,8 +48,10 @@ http://contributor-covenant.org/version/1/0/0/
 - David Blackwell: https://en.wikipedia.org/wiki/David_Blackwell
 - History of Statistics: https://en.wikipedia.org/wiki/History_of_statistics
 - Statistical significance: https://en.wikipedia.org/wiki/Statistical_significance
-- William Sealy Gosset: https://en.wikipedia.org/wiki/William_Sealy_Gosset
-
+- William Sealy Gosset: 
+  - https://en.wikipedia.org/wiki/William_Sealy_Gosset
+  - https://priceonomics.com/the-guinness-brewer-who-revolutionized-statistics/  
+  
 ## Websites 
 
 *What websites are dedicated to the history of statistics & statisticians?* 
