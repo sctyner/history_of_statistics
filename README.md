@@ -52,6 +52,9 @@ http://contributor-covenant.org/version/1/0/0/
   - https://en.wikipedia.org/wiki/William_Sealy_Gosset
   - https://priceonomics.com/the-guinness-brewer-who-revolutionized-statistics/  
 - Grace Wahba: https://en.wikipedia.org/wiki/Grace_Wahba  
+- C. R. Rao: https://en.wikipedia.org/wiki/C._R._Rao  
+- Gertrude Cox: https://en.wikipedia.org/wiki/Gertrude_Mary_Cox 
+- Abraham Wald: https://en.wikipedia.org/wiki/Abraham_Wald  
   
 ## Websites 
 
@@ -98,10 +101,12 @@ http://contributor-covenant.org/version/1/0/0/
 
 - An Oral History with David Blackwell: https://sites.tufts.edu/histmath/files/2015/11/blackwell.pdf  
 - A Conversation with Grace Wahba: https://projecteuclid.org/euclid.ss/1591171233  
+- Interview with Professor Calyampudi Radhakrishna Rao: https://magazine.amstat.org/blog/2016/12/01/raointerview/
 
 ## News Articles  
 - Breaking Ground with Grace: https://news.wisc.edu/breaking-ground-with-grace/
 - Column: The false, racist theory of eugenics once ruled science. Let’s never let that happen again: https://www.pbs.org/newshour/nation/column-the-false-racist-theory-of-eugenics-once-ruled-science-lets-never-let-that-happen-again
+- About C.R. Rao: http://mathematics.ceu.edu/rao 
 
 ## Other  
 
