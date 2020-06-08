@@ -92,3 +92,7 @@ http://contributor-covenant.org/version/1/0/0/
 ## Podcasts
 
 *William Sealy Gosset*: Background on Gossest's creation of the student-t test: http://lineardigressions.com/episodes/2016/2/29/guinness
+
+## Interviews  
+
+- An Oral History with David Blackwell: https://sites.tufts.edu/histmath/files/2015/11/blackwell.pdf
