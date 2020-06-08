@@ -96,4 +96,13 @@ http://contributor-covenant.org/version/1/0/0/
 
 ## Interviews  
 
-- An Oral History with David Blackwell: https://sites.tufts.edu/histmath/files/2015/11/blackwell.pdf
+- An Oral History with David Blackwell: https://sites.tufts.edu/histmath/files/2015/11/blackwell.pdf  
+- A Conversation with Grace Wahba: https://projecteuclid.org/euclid.ss/1591171233  
+
+## News Articles  
+- Breaking Ground with Grace: https://news.wisc.edu/breaking-ground-with-grace/
+- Column: The false, racist theory of eugenics once ruled science. Let’s never let that happen again: https://www.pbs.org/newshour/nation/column-the-false-racist-theory-of-eugenics-once-ruled-science-lets-never-let-that-happen-again
+
+## Other  
+
+- Timeline of Statistics: http://www.statslife.org.uk/images/pdf/timeline-of-statistics.pdf
