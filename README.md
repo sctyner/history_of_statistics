@@ -51,6 +51,7 @@ http://contributor-covenant.org/version/1/0/0/
 - William Sealy Gosset: 
   - https://en.wikipedia.org/wiki/William_Sealy_Gosset
   - https://priceonomics.com/the-guinness-brewer-who-revolutionized-statistics/  
+- Grace Wahba: https://en.wikipedia.org/wiki/Grace_Wahba  
   
 ## Websites 
 
