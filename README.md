@@ -120,3 +120,4 @@ http://contributor-covenant.org/version/1/0/0/
 ## Other  
 
 - Timeline of Statistics: http://www.statslife.org.uk/images/pdf/timeline-of-statistics.pdf
+- AMS Feature Column: The Legend of Abraham Wald: http://www.ams.org/publicoutreach/feature-column/fc-2016-06
