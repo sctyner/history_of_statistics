@@ -58,6 +58,8 @@ http://contributor-covenant.org/version/1/0/0/
 
 - History of Statistics ASA interest group: https://community.amstat.org/historyofstats/home 
 - This is Statistics list of "Famous Statisticians": https://thisisstatistics.org/famous-statisticians/ 
+- ASA Statisticians in History: https://magazine.amstat.org/statisticians-in-history/
+
 
 ## Blogs & Blog posts
 
