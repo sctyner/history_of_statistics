@@ -78,6 +78,12 @@ http://contributor-covenant.org/version/1/0/0/
 
 *What blogs & blog posts have been written about the history of statistics & statisticians?*
 
+- Nathaniel Joselson, [Eugenics and Statistics, Discussing Karl Pearson and R. A. Fisher](https://njoselson.github.io//Fisher-Pearson/)
+    * "In 'The Scope and Importance to the State of National Eugenics,' Pearson wrote that 'human sympathy' for people with genetic 'defects' (ie having mental illness, or being disabled) is undesirable. He said sympathy is an artificial process that goes against the principles of evolution and results in a decrease in the genetic fitness of society as a whole. Thus it is a waste to expend resources on people who are genetically inferior, when these resources could be used to improve people of 'good stock.'"
+- Nathaniel Joselson, [Eugenics and Statistics Part Two, Reflections and Implications](https://njoselson.github.io/Eugenics-Reflections/)
+    * "Statistical significance, like every other observable phenomenon (gender, sexuality, race), is on a spectrum, not a categorical scale. Post-colonial understanding of statistical significance doesn't rely on p-values less than 0.05, but rather on holistic understanding of the data in question and the mathematical properties of the population that generated it. This is knowledge discovery, not hypothesis testing. This is interdisciplinary research, not isolated extrapolation by inherently biased human beings."
+- [Lies, Damned Lies, and Racist Statistics](http://www.historyworkshop.org.uk/lies-damned-lies-and-racist-statistics/)
+
 ## Books 
 
 *What books have been written about the history of statistics & statisticians? How critical of a perspective do they take?* 
