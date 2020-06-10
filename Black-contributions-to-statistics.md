@@ -16,7 +16,7 @@ This is not meant to be a complete list or static source. It should grow and cha
 
 #### Fields: game theory, probability theory, information theory, and Bayesian statistics
 
-- [The Rao-Blackwell theorem](https://en.wikipedia.org/wiki/Rao%E2%80%93Blackwell_theorem): The Rao–Blackwell theorem states that if $g(X)$ is any kind of estimator of a parameter $\theta$, then the conditional expectation of $g(X)$ given $T(X)$, where T is a sufficient statistic, is typically a better estimator of $\theta$, and is never worse. 
+- [The Rao-Blackwell theorem](https://en.wikipedia.org/wiki/Rao%E2%80%93Blackwell_theorem): The Rao–Blackwell theorem states that if g(X) is any kind of estimator of a parameter, then the conditional expectation of g(X) given T(X), where T is a sufficient statistic, is typically a better estimator of the parameter, and is never worse. 
 
 Books:  
 - Theory of Games and Statistical Decisions (1954; with M.A. Girshick)
