@@ -91,7 +91,7 @@ http://contributor-covenant.org/version/1/0/0/
 
 - *The Lady Tasting Tea* by David Salsburg
 - *The Theory that Would Not Die* by Sharon McGrayne 
-- *The History of Statistics: The Measurement of Uncertainty before 1900* by Stephen M. Stigler
+- *The History of Statistics: The Measurement of Uncertainty before 1900* by Stephen M. Stigler [(online archive)](https://archive.org/details/historyofstatist00stig/mode/2up)
 - *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life* (1995) by Theodore Porter
   - Discussion of the history of statistics and the concept of objectivity showing how quantification involves administration, as well as social and technological power.
 - *Karl Pearson: The Scientific Life in a Statistical Age* by Theodore Porter
