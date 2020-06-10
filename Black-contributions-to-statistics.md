@@ -47,4 +47,8 @@ Authored [many papers](http://www.math.buffalo.edu/mad/PEEPS/bell_charlesb.html)
 
 Also collaborated with David Blackwell. 
 
+## [W.E.B. DuBois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
 
+#### Fields: sociology, history 
+
+Created [The American Negro](https://publicdomainreview.org/collection/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900), an exhibit at the World Fair in 1900 in Paris which included dozens of **data visualizations** about the lives of Black people in the United States at the turn of the century, 35 years after the end of slavery. [See all visualizations at the Library of Congress online archive.](http://www.loc.gov/pictures/search/?q=%22lot%2011931%22%20NOT%20medal&st=grid&co=anedub&loclr=blogpic)
