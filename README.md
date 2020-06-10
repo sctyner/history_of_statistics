@@ -55,6 +55,7 @@ http://contributor-covenant.org/version/1/0/0/
 - C. R. Rao: https://en.wikipedia.org/wiki/C._R._Rao  
 - Gertrude Cox: https://en.wikipedia.org/wiki/Gertrude_Mary_Cox 
 - Abraham Wald: https://en.wikipedia.org/wiki/Abraham_Wald  
+- Adolphe Quetelet: https://en.wikipedia.org/wiki/Adolphe_Quetelet
   
 ## Websites 
 
