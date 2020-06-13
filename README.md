@@ -79,6 +79,8 @@ http://contributor-covenant.org/version/1/0/0/
 
 *What blogs & blog posts have been written about the history of statistics & statisticians?*
 
+- Daniel Cleather, [Is Statistics Racist?](https://medium.com/swlh/is-statistics-racist-59cd4ddb5fa9)
+    * "What is important to realise is that eugenics was far more than just a side interest for Galton, Pearson and Fisher. To a large part their desire to promote the eugenics agenda provided the motivation for their interest in statistics in the first place."
 - Nathaniel Joselson, [Eugenics and Statistics, Discussing Karl Pearson and R. A. Fisher](https://njoselson.github.io//Fisher-Pearson/)
     * "In 'The Scope and Importance to the State of National Eugenics,' Pearson wrote that 'human sympathy' for people with genetic 'defects' (ie having mental illness, or being disabled) is undesirable. He said sympathy is an artificial process that goes against the principles of evolution and results in a decrease in the genetic fitness of society as a whole. Thus it is a waste to expend resources on people who are genetically inferior, when these resources could be used to improve people of 'good stock.'"
 - Nathaniel Joselson, [Eugenics and Statistics Part Two, Reflections and Implications](https://njoselson.github.io/Eugenics-Reflections/)
