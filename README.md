@@ -104,6 +104,8 @@ http://contributor-covenant.org/version/1/0/0/
 - *Objectivity* (2007) by Lorraine Daston and Peter Galison
   - A more general study of the history of objectivity in the sciences and social sciences. Includes various discussions on the role of statistics in objectivity.
 - Desrosières, A. (1990). "How to make things which hold together: Social science, statistics and the state." In P. Wagner, P., B. Wittrock, & R.P. Whitley (Eds.) *Discourses on society: The shaping of the social science disciplines* (Vol. 15, pp.195-218). Springer. [(pdf)](pdfs/desrosieres-1990.pdf)
+- *In the Name of Eugenics* by Daniel Kevles (the larger history of eugenics as a scientific idea)
+- *The Guarded Gate* by Daniel Okrent (focusing on the role of "scientific racism" and eugenics in immigration debates)
 
 ## Journals / Articles
 
