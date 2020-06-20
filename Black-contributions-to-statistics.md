@@ -52,3 +52,17 @@ Also collaborated with David Blackwell.
 #### Fields: sociology, history 
 
 Created [The American Negro](https://publicdomainreview.org/collection/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900), an exhibit at the World Fair in 1900 in Paris which included dozens of **data visualizations** about the lives of Black people in the United States at the turn of the century, 35 years after the end of slavery. [See all visualizations at the Library of Congress online archive.](http://www.loc.gov/pictures/search/?q=%22lot%2011931%22%20NOT%20medal&st=grid&co=anedub&loclr=blogpic)
+
+## [Tommy Wright](https://www.census.gov/research/researchers/profile.php?cv_sub=div&cv_profile=3743)
+
+#### Fields: probability sampling, sample design, official statistics
+
+[Amstat News Feature in February 2020](https://magazine.amstat.org/blog/2020/02/01/tommy-wright/)
+
+Led the [Center for Statistical Research and Methodology (CSRM)](https://www.census.gov/srd/csrm/) at the [U.S. Census Bureau](https://www.census.gov/), and his team took on the challenges in providing official statistics to the people and businesses.  
+
+- Klein, M., Tommy Wright, and J. Wieczorek. Forthcoming. "A Joint Confidence Region for An Overall Ranking of Populations." Journal of the Royal Statistical Society ( Series C ). [[link]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssc.12402)
+- Wright, Tommy, Martin Klein, and Jerzy Wieczorek. 2019. "A Primer on Visualization for Comparing Populations, Including the Issue of Overlapping Confidence Intervals." The American Statistician, Vol 73, No. 2, 165-178. [[link]](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1392359?journalCode=utas20)
+- Wright, Tommy. 2018. "No Calculations When Observation Can Be Made." in A.K. Chattopadhyay and G. Chattopadhyay (Eds.), Statistics and Its Applications, Springer Singapore, 139-154. [[link]](https://link.springer.com/chapter/10.1007/978-981-13-1223-6_13)
+
+
