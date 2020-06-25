@@ -65,4 +65,12 @@ Led the [Center for Statistical Research and Methodology (CSRM)](https://www.cen
 - Wright, Tommy, Martin Klein, and Jerzy Wieczorek. 2019. "A Primer on Visualization for Comparing Populations, Including the Issue of Overlapping Confidence Intervals." The American Statistician, Vol 73, No. 2, 165-178. [[link]](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1392359?journalCode=utas20)
 - Wright, Tommy. 2018. "No Calculations When Observation Can Be Made." in A.K. Chattopadhyay and G. Chattopadhyay (Eds.), Statistics and Its Applications, Springer Singapore, 139-154. [[link]](https://link.springer.com/chapter/10.1007/978-981-13-1223-6_13)
 
+## [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
 
+#### Fields: Bayesian statistics, deep learning, genetics, machine learning, and nonparametric statistics
+
+At Brown University, Dr. Crawford leads a team to build machine learning algorithms that help scientists understand the complex interactions between different genetic features in order to better understand genetic disorders.  
+
+Dr. Crawford is featured in [Forbes 30 under 30 in 2019](https://www.forbes.com/profile/lorin-crawford/) for his research in the intersection of genetics and statistics. 
+
+Dr. Crawford is also listed in the [The Root: 100 Most Influential African Americans in 2019](https://interactives.theroot.com/root-100-2019/lorin-crawford/).
