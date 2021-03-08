@@ -126,6 +126,7 @@ http://contributor-covenant.org/version/1/0/0/
 - Interview with Professor Calyampudi Radhakrishna Rao: https://magazine.amstat.org/blog/2016/12/01/raointerview/
 
 ## News Articles  
+- How Eugenics Shaped Statistics: Exposing the Damned Lies of Three Science Pioneers: https://nautil.us/issue/92/frontiers/how-eugenics-shaped-statistics
 - Breaking Ground with Grace: https://news.wisc.edu/breaking-ground-with-grace/
 - Column: The false, racist theory of eugenics once ruled science. Let’s never let that happen again: https://www.pbs.org/newshour/nation/column-the-false-racist-theory-of-eugenics-once-ruled-science-lets-never-let-that-happen-again
 - About C.R. Rao: http://mathematics.ceu.edu/rao 
