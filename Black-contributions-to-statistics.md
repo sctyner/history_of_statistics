@@ -65,4 +65,24 @@ Led the [Center for Statistical Research and Methodology (CSRM)](https://www.cen
 - Wright, Tommy, Martin Klein, and Jerzy Wieczorek. 2019. "A Primer on Visualization for Comparing Populations, Including the Issue of Overlapping Confidence Intervals." The American Statistician, Vol 73, No. 2, 165-178. [[link]](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1392359?journalCode=utas20)
 - Wright, Tommy. 2018. "No Calculations When Observation Can Be Made." in A.K. Chattopadhyay and G. Chattopadhyay (Eds.), Statistics and Its Applications, Springer Singapore, 139-154. [[link]](https://link.springer.com/chapter/10.1007/978-981-13-1223-6_13)
 
+## [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
 
+#### Fields: Bayesian statistics, deep learning, genetics, machine learning, and nonparametric statistics
+
+At Brown University, Dr. Crawford leads a team to build machine learning algorithms that help scientists understand the complex interactions between different genetic features, in order to better understand genetic disorders.  
+
+Dr. Crawford is featured in [Forbes 30 under 30 in 2019](https://www.forbes.com/profile/lorin-crawford/) for his research in the intersection of genetics and statistics.  
+
+Dr. Crawford is also listed in the [The Root: 100 Most Influential African Americans in 2019](https://interactives.theroot.com/root-100-2019/lorin-crawford/).
+
+## [Olanrewaju Michael Akande](https://datascience.duke.edu/olanrewaju-michael-akande)
+
+#### Fields: Bayesian statistics, missing data imputation, mixture models, and hierarchical modeling
+
+Dr. Akande is part of the faculty at Duke MIDS (Master in Interdisciplinary Data Science). Given that Dr. Akande completed a PhD in 2019, he has high potential in research, particularly in developing Bayesian models to impute missing data and edit erroneous responses in surveys.
+
+[Selected publications:](https://akandelanre.github.io/publications/)
+
+- Akande, O., Li, F. and Reiter, J. P. (2017), "An Empirical Comparison of Multiple Imputation Methods for Categorical Data", The American Statistician, 71:2, 162-170. [[link]](https://amstat.tandfonline.com/eprint/64x4hfgkSgQPXwGrBSRV/full#.XvRNqmj0nxk)
+- Akande, O., Barrientos, A. F. and Reiter, J. P. (2018), "Simultaneous Edit and Imputation For Household Data with Structural Zeros", Journal of Survey Statistics and Methodology, 0, 1–22. [[link]](https://academic.oup.com/jssam/article-abstract/7/4/498/5260835)
+- Akande, O., Reiter, J. P. and Barrientos, A. F. (2019), "Multiple Imputation of Missing Values in Household Data with Structural Zeros", Survey Methodology, , 45:2, 271-294. [[link]](https://www150.statcan.gc.ca/n1/pub/12-001-x/2019002/article/00005-eng.htm)
