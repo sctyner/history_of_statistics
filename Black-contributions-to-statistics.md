@@ -86,3 +86,9 @@ Dr. Akande is part of the faculty at Duke MIDS (Master in Interdisciplinary Data
 - Akande, O., Li, F. and Reiter, J. P. (2017), "An Empirical Comparison of Multiple Imputation Methods for Categorical Data", The American Statistician, 71:2, 162-170. [[link]](https://amstat.tandfonline.com/eprint/64x4hfgkSgQPXwGrBSRV/full#.XvRNqmj0nxk)
 - Akande, O., Barrientos, A. F. and Reiter, J. P. (2018), "Simultaneous Edit and Imputation For Household Data with Structural Zeros", Journal of Survey Statistics and Methodology, 0, 1–22. [[link]](https://academic.oup.com/jssam/article-abstract/7/4/498/5260835)
 - Akande, O., Reiter, J. P. and Barrientos, A. F. (2019), "Multiple Imputation of Missing Values in Household Data with Structural Zeros", Survey Methodology, , 45:2, 271-294. [[link]](https://www150.statcan.gc.ca/n1/pub/12-001-x/2019002/article/00005-eng.htm)
+
+## [Brandeis Marshall](https://en.wikipedia.org/wiki/Brandeis_Marshall)
+
+#### Fields: business intelligence, data analytics, social media, and cybersecurity
+
+Dr. Marshall is the founder and CEO of [DataedX Group](https://www.dataedx.com/), whose focus is to expose and mitigate the harmful impact of data practices on technology and society. She is also a full professor in computer science at [Spelman College](https://www.spelman.edu/about-us/news-and-events/our-stories/stories/2017/07/10/brandeis-marshall). Dr. Marshall published [*Data Conscience: Algorithmic Siege on our Humanity*](https://www.brandeismarshall.com/book) in 2022 to intersect social justice with data science.
